@@ -1,0 +1,8 @@
+{
+  "name": "Remix TalentShow",
+  "description": "Android-first social media and daily talent competition platform with short video feeds, prize pools, voting, leaderboards, secure wallet, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
